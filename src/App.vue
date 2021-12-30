@@ -1,7 +1,9 @@
 <template>
   <div id="app">
     <router-view/>
-    <div>新闻头条</div>
+    <div>
+    <i class="techtop icon-zuopin"></i>
+    </div>
   </div>
 </template>
 <script>
